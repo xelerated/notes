@@ -1,0 +1,6 @@
+ttps://github.com/carlospolop/PEASS-ng
+
+https://www.shellcode.it/article/convert-msf-module/
+
+https://ivanitlearning.wordpress.com/2019/09/01/rewriting-a-ruby-msf-exploit-in-python/
+
